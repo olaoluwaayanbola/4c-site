@@ -40,4 +40,4 @@ const tailwindConfig = {
   ],
 }
 
-module.exports = tailwindConfig
+module.exports = tailwindConfig;
